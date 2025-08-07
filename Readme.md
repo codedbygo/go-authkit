@@ -5,7 +5,7 @@ This guide demonstrates how to use the AuthKit library in your Go applications.
 ## Installation
 
 ```bash
-go get github.com/your-username/go-authkit
+go get github.com/codedbygo/go-authkit
 ```
 
 ## Quick Start
@@ -15,7 +15,7 @@ go get github.com/your-username/go-authkit
 ```go
 package main
 
-import "github.com/your-username/go-authkit"
+import "github.com/codedbygo/go-authkit"
 
 func main() {
     // Initialize AuthKit with configuration
