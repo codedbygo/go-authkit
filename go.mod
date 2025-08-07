@@ -1,6 +1,6 @@
-module github.com/your-username/go-authkit
+module github.com/codedbygo/go-authkit
 
-go 1.21
+go 1.20
 
 require (
 	github.com/gin-gonic/gin v1.10.1

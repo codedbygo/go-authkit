@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/spf13/cobra"
-	"github.com/your-username/go-authkit"
+	"github.com/codedbygo/go-authkit"
 )
 
 var passwordCmd = &cobra.Command{

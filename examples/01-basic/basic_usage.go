@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/your-username/go-authkit"
+	"github.com/codedbygo/go-authkit"
 )
 
 func main() {

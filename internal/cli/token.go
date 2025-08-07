@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/your-username/go-authkit"
+	"github.com/codedbygo/go-authkit"
 )
 
 var tokenCmd = &cobra.Command{
