@@ -3,8 +3,8 @@ package cli
 import (
 	"fmt"
 
-	"github.com/spf13/cobra"
 	"github.com/codedbygo/go-authkit"
+	"github.com/spf13/cobra"
 )
 
 var passwordCmd = &cobra.Command{
